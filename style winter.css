@@ -1,0 +1,13 @@
+body {
+  background-color: blue;
+}
+
+p {
+  color: black;
+  font-family: "Roboto Mono", monospace;
+  font-size: 50px;
+}
+ol {
+  font-size: 50px;
+  font-family: "Roboto Mono", monospace;
+}
